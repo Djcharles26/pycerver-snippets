@@ -1,0 +1,20 @@
+{
+    "name": "pycerver-snippets",
+    "displayName": "Pycerver snippets",
+    "description": "Pycerver snippets and functions to work faster with pycerver",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
