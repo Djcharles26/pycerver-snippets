@@ -1,4 +1,4 @@
-# pycerver-snippets
+# pycerver-snippets 0.0.2
 
 Pycerver snippets are a collection of snippets that allows you to work faster using this python framework.
 
