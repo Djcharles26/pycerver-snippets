@@ -2,6 +2,7 @@
     "name": "pycerver-snippets",
     "displayName": "Pycerver snippets",
     "description": "Pycerver snippets and functions to work faster with pycerver",
+    "repository": "https://github.com/Djcharles26/pycerver-snippets",
     "version": "0.0.3",
     "publisher": "JuanCarlosLaraAnaya",
     "engines": {
