@@ -2,7 +2,7 @@
     "name": "pycerver-snippets",
     "displayName": "Pycerver snippets",
     "description": "Pycerver snippets and functions to work faster with pycerver",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "JuanCarlosLaraAnaya",
     "engines": {
         "vscode": "^1.46.0"

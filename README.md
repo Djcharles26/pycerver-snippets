@@ -25,7 +25,7 @@ Pycerver snippets are a collection of snippets that allows you to work faster us
 |	*pypath*	| Generates an import of a query variable inserted in query of the request |
 
 
-> Tip: This Snippets fully works with pycerver + pymongoose
+> Tip: This Snippets fully works with pycerver + pymongoose (1.0)
 
 
 ## Requirements
